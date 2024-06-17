@@ -2,6 +2,10 @@
 
 ### An app that shows you the weather at your location
 
+![IMG_1412](https://github.com/biseshRana/Weather_App/assets/148798573/bd65eb03-bdfe-4c27-8002-c9c8c8f9cc24)
+![IMG_1413](https://github.com/biseshRana/Weather_App/assets/148798573/d3326962-91ca-4635-ad9b-5dfda30af178)
+![IMG_1414](https://github.com/biseshRana/Weather_App/assets/148798573/392e720b-d22e-4d73-8ac5-fa69e1c5f83a)
+
 ## Introduction
 This app was made with React Native. The app is broken down into 3 sections: Current, Upcoming, and City. Current shows the current temperature, high, low, what it feels like, and the current weather. Upcoming shows the day, time, the highs, and the lows for the upcoming week. City shows the city name, city population, and time of sunset and sunrise. When opening the app, you may encounter a loading screen. Please be patient as the app is importing data from the API which may take a while. Furthermore, the app will also ask for your location, so please do not be alarmed and accept it as it is inevitable. 
 
